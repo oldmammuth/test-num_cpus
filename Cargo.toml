@@ -5,4 +5,3 @@ authors = ["oldmammuth <davidedelpapa@gmail.com>"]
 
 [dependencies.num_cpus]
 git = "https://github.com/oldmammuth/num_cpus.git"
-branch = "wasm-unknown-unknown"
